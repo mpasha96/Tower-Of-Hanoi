@@ -1,0 +1,23 @@
+c:\users\faiq\documents\visual studio 2010\Projects\tower\tower\bin\Debug\tower.exe
+c:\users\faiq\documents\visual studio 2010\Projects\tower\tower\bin\Debug\tower.pdb
+c:\users\faiq\documents\visual studio 2010\Projects\tower\tower\obj\x86\Debug\tower.Form1.resources
+c:\users\faiq\documents\visual studio 2010\Projects\tower\tower\obj\x86\Debug\tower.Properties.Resources.resources
+c:\users\faiq\documents\visual studio 2010\Projects\tower\tower\obj\x86\Debug\tower.csproj.GenerateResource.Cache
+c:\users\faiq\documents\visual studio 2010\Projects\tower\tower\obj\x86\Debug\tower.exe
+c:\users\faiq\documents\visual studio 2010\Projects\tower\tower\obj\x86\Debug\tower.pdb
+C:\Users\faiq\documents\visual studio 2010\Projects\tower\tower\obj\x86\Debug\tower.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\tower\tower\obj\x86\Debug\tower.exe
+C:\Users\Admin\Desktop\tower\tower\obj\x86\Debug\tower.pdb
+C:\Users\Admin\Desktop\tower\tower\bin\Debug\tower.exe
+C:\Users\Admin\Desktop\tower\tower\bin\Debug\tower.pdb
+C:\Users\Admin\Desktop\tower\tower\obj\x86\Debug\tower.Form1.resources
+C:\Users\Admin\Desktop\tower\tower\obj\x86\Debug\tower.Properties.Resources.resources
+C:\Users\Admin\Desktop\tower\tower\obj\x86\Debug\tower.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\tower\tower\obj\x86\Debug\tower.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\toweroghanoi\tower\obj\x86\Debug\tower.exe
+C:\Users\Admin\Desktop\toweroghanoi\tower\obj\x86\Debug\tower.pdb
+C:\Users\Admin\Desktop\toweroghanoi\tower\bin\Debug\tower.exe
+C:\Users\Admin\Desktop\toweroghanoi\tower\bin\Debug\tower.pdb
+C:\Users\Admin\Desktop\toweroghanoi\tower\obj\x86\Debug\tower.Form1.resources
+C:\Users\Admin\Desktop\toweroghanoi\tower\obj\x86\Debug\tower.Properties.Resources.resources
+C:\Users\Admin\Desktop\toweroghanoi\tower\obj\x86\Debug\tower.csproj.GenerateResource.Cache
